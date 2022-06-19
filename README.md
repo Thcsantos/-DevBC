@@ -1,7 +1,7 @@
 # +DevBC
 ### Todo conteúdo didático de bootcamps e também conteúdo extra de aprendizagem.
 
-Dividido em áreas de conhecimento, como um futuro dev, decidi organizar todo o conteúdo de bootcamps que participar para aloca-los em um só lugar para **contribuir** e ao mesmo tempo **aprender** com links e meus resumos e anotações com a comunidade.
+Dividido em áreas de conhecimento, como um futuro dev, decidi organizar todo o conteúdo de bootcamps que participar para aloca-los em um só lugar para **contribuir** e ao mesmo tempo **aprender** com links, meus resumos e anotações com a comunidade.
 
 > "uma mente limitada é aquela que acredita que o conhecimento não é necessário"
 
