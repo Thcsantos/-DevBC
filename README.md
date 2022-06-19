@@ -6,4 +6,3 @@ Dividido em áreas de conhecimento, decidi organizar todo o conteúdo de bootcam
 Link de aprendizagem de sintaxe básica em MarkDown: 
 <https://markdown.net.br/sintaxe-basica/>
 
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="200" src="https://giphy.com/embed/yYLhTpn9fVs8QuSPIt/video" width="480"></iframe></div>
